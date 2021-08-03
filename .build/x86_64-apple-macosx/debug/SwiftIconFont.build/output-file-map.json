@@ -1,0 +1,239 @@
+{
+  "": {
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/master.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/AppKit/SwiftIconFont+NSButton.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFont+NSButton.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFont+NSButton.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFont+NSButton~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFont+NSButton.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/AppKit/SwiftIconFont+NSImage.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFont+NSImage.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFont+NSImage.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFont+NSImage~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFont+NSImage.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/AppKit/SwiftIconFont+NSTextField.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFont+NSTextField.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFont+NSTextField.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFont+NSTextField~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFont+NSTextField.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/AppKit/SwiftIconFontNSView.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFontNSView.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFontNSView.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFontNSView~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/AppKit/SwiftIconFontNSView.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/FontLoader.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/FontLoader.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/FontLoader.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/FontLoader~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/FontLoader.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/Fonts/Captain.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Captain.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Captain.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Captain~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Captain.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/Fonts/ElegantIcon.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/ElegantIcon.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/ElegantIcon.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/ElegantIcon~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/ElegantIcon.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/Fonts/FontAwesome.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/FontAwesome.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/FontAwesome.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/FontAwesome~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/FontAwesome.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/Fonts/FontAwesome5.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/FontAwesome5.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/FontAwesome5.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/FontAwesome5~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/FontAwesome5.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/Fonts/Foundation.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Foundation.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Foundation.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Foundation~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Foundation.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/Fonts/Iconic.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Iconic.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Iconic.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Iconic~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Iconic.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/Fonts/IonIcons.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/IonIcons.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/IonIcons.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/IonIcons~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/IonIcons.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/Fonts/MapIcon.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/MapIcon.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/MapIcon.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/MapIcon~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/MapIcon.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/Fonts/MaterialIcon.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/MaterialIcon.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/MaterialIcon.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/MaterialIcon~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/MaterialIcon.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/Fonts/Octicon.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Octicon.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Octicon.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Octicon~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/Octicon.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/Fonts/SegoeMDL2.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/SegoeMDL2.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/SegoeMDL2.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/SegoeMDL2~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/SegoeMDL2.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/Fonts/ThemifyIcon.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/ThemifyIcon.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/ThemifyIcon.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/ThemifyIcon~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Fonts/ThemifyIcon.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/SwiftIconFont+NSRange.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/SwiftIconFont+NSRange.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/SwiftIconFont+NSRange.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/SwiftIconFont+NSRange~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/SwiftIconFont+NSRange.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/SwiftIconFont+String.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/SwiftIconFont+String.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/SwiftIconFont+String.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/SwiftIconFont+String~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/SwiftIconFont+String.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/SwiftIconFont.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/SwiftIconFont.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/SwiftIconFont.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/SwiftIconFont~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/SwiftIconFont.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/Shared/Types.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Types.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Types.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Types~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/Shared/Types.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconBarButtonItem.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconBarButtonItem.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconBarButtonItem.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconBarButtonItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconBarButtonItem.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconButton.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconButton.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconButton.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconButton~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconButton.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconFont+UIBarButtonItem.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIBarButtonItem.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIBarButtonItem.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIBarButtonItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIBarButtonItem.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconFont+UIButton.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIButton.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIButton.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIButton~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIButton.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconFont+UIImage.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIImage.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIImage.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIImage~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIImage.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconFont+UIImageView.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIImageView.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIImageView.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIImageView~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UIImageView.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconFont+UILabel.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UILabel.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UILabel.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UILabel~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UILabel.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconFont+UITabBarItem.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UITabBarItem.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UITabBarItem.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UITabBarItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UITabBarItem.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconFont+UITextField.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UITextField.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UITextField.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UITextField~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UITextField.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconFont+UITextView.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UITextView.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UITextView.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UITextView~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFont+UITextView.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconFontView.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFontView.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFontView.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFontView~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconFontView.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconImageView.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconImageView.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconImageView.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconImageView~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconImageView.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconLabel.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconLabel.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconLabel.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconLabel~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconLabel.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconStepper.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconStepper.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconStepper.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconStepper~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconStepper.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconTabBarItem.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconTabBarItem.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconTabBarItem.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconTabBarItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconTabBarItem.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconTextField.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconTextField.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconTextField.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconTextField~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconTextField.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/Sources/SwiftIconFont/Classes/UIKit/SwiftIconTextView.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconTextView.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconTextView.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconTextView~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/Classes/UIKit/SwiftIconTextView.swiftdeps"
+  },
+  "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/resource_bundle_accessor.d",
+    "object": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/resource_bundle_accessor.swiftdeps"
+  }
+}

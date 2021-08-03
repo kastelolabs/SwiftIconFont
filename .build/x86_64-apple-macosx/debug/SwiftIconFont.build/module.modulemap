@@ -1,0 +1,4 @@
+module SwiftIconFont {
+    header "/Users/neural/Work/kastelolabs/SwiftIconFont/.build/x86_64-apple-macosx/debug/SwiftIconFont.build/SwiftIconFont-Swift.h"
+    requires objc
+}
